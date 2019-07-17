@@ -1,0 +1,13 @@
+1;MBAYE; EL HADJIMB ACKE;1993-07-25;772026057;diopsecurite@gmail.com;PROMO1;inclu
+2;FALL;FAMA;1993-05-03;775274835;falldaba@gmail.cim;PROMO2;exclu
+3;DIOP;FAMA;1995-08-05;772101457;diopmbacke484@gmail.com;PROMO1;inclu
+4;DIALLO;MATY;1996-08-09;779871024;diallomar@gmail.com;PROMO1;inclu
+5;NDIAYE;SAKHO;1994-11-04;771301409;ndiayeawa@yafoo.fr;PROMO1;exclu
+6;GAYE;NDIAGA;1993-02-17;771122020;gueyendiaga@gmail.com;PROMO4;inclu
+7;SALL;FATOU;1989-08-23;772712070;dndiaga@yahoo.fr;PROMO4;inclu
+8;SARR;AMINA;1993-03-08;776985874;aminasarr@gmail.com;PROMO5;exclu
+9;DIENG;CHEIKH;1990-10-28;774583960;diengcheikh@yahoo.fr;PROMO5;exclu
+10;KANE;OMAR;1991-04-28;772305077;lamraze28@gmail.com;PROMO8;inclu
+11;SARR;NGOR;1993-03-12;775233647;sarrngor@gmail.com;PROMO6;exclu
+12;BITEY;BASSIROU;1994-03-11;778745210;bassbitey@gmail.com;PROMO4;exclu
+13;sall;moussa;0007-02-14;1992;sallmouss@gmail.com;PROMO10;exclu
